@@ -1,5 +1,5 @@
 {
-  "name": "wealthwise",
+  "name": "finsight",
   "private": true,
   "author": "Pratik",
   "version": "1.0.0",
@@ -10,7 +10,7 @@
   "bugs": {
     "url": "https://github.com/pratikk70/WealthWise-Finance-Tracker/issues"
   },
-  "workspaces": [                                                                                                
+  "workspaces": [
     "apps/*",
     "packages/*"
   ],
