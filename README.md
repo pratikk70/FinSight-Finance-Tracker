@@ -46,7 +46,7 @@ finsight
 │   └── shared-types     # Zod schemas & TS types shared across client/server
 ├── scripts              # Utility bash scripts for setup & health checks
 └── turbo.json           # Turborepo pipeline configuration
-
+```
 ## Creator
-FinSight was refined and deployed by Pratik Tanaji Parkale. 
+FinSight was deployed by Pratik Tanaji Parkale. 
 GitHub: https://github.com/pratikk70
