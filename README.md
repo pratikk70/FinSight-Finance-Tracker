@@ -35,6 +35,9 @@ npm run dev
 - Auth: NextAuth.js (Client) / JWT (Server)
 
 ## Folder Structure
+## Folder Structure
+
+```text
 finsight
 ├── apps
 │   ├── api              # Express server, MongoDB models, API routes
